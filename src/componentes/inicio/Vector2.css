@@ -1,0 +1,15 @@
+.onda-azul-cointainer2{
+  width:100%;
+  
+  position: relative;
+  z-index: 2;
+  bottom: 10%;
+
+}
+.onda-azul2{
+  height:400px;
+  width: 100%;
+
+  z-index: 2;
+  filter: drop-shadow(-2px 2px 15px rgba(0, 0, 0, 0.685)) contrast(1.09) !important;
+}
